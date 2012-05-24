@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/collections-generic-4.01.jar"/>
+	<classpathentry kind="lib" path="lib/edu.mit.jwi_2.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/Jama-1.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/jregex1.2_01.jar"/>
+	<classpathentry kind="lib" path="lib/JWPL_API_0.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/JWPL_DATAMACHINE_0.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-core-3.1.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/QAssist/lib/lucene-core-3.1.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/stanford-parser.jar"/>
+	<classpathentry kind="lib" path="lib/stanford-postagger-2012-01-06.jar"/>
+	<classpathentry kind="lib" path="lib/trove-3.0.0rc2.jar"/>
+	<classpathentry kind="lib" path="lib/ejml-0.18-doc.zip"/>
+	<classpathentry kind="lib" path="lib/ejml-0.18.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/ram/PhD-Work/Query-Interpretations/Code/workspace/QAssist/lib/ejml-0.18-doc.zip!/ejml-0.18-doc"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/LBFGS.jar"/>
+	<classpathentry kind="lib" path="lib/smlrNew.jar"/>
+	<classpathentry kind="lib" path="lib/ojalgo-31.10.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/QAssist/lib/ojalgo-31.10-doc.zip!/doc"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
